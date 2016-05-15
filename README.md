@@ -1,4 +1,4 @@
-# Sprout Node 6 Template
+# sprout-isomorphic
 
 A marginally-opinionated [sprout](http://github.com/carrot/sprout) template for isomorphic web apps using react, redux, and react-router.
 
